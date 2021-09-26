@@ -2,7 +2,7 @@
 # Author
 Gilbert yegon
 ## Description
-is a web application which contains my favourite photos and who iam
+is a web application which contains my favourite photos and who iam and one of our favourite photos and how to contact us
 ### prerequisites
 you must be having a visual studio instaled so as to write your code with
 you need to have git installed
