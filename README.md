@@ -14,6 +14,7 @@ so as to access the project on ur local files, you have to clone it using the st
 2. use this comand to clone 's git clone https://github.com/Gilbertyegon/photography.git
 3. this will clone the repository  into your local browser
 4. and work on the project and push to github again
+5. and you are done with setup
 ### Tech used
 1. HTMLs
 1. CSS
@@ -23,5 +24,7 @@ so as to access the project on ur local files, you have to clone it using the st
 The project is under the  [MIT](license) license.
 ### contact us
 if you have any questions please don't hesitate to contact us on gilbert.yegon@student.moringaschool.com
+### contributing
+our website is build with little knowledge in the three language,it is however,open to anyone who would wish to contribute to our project. you can also refer here https://stackoverflow.com/questions/8503559/what-is-linting to learn more and run tests. software methods and tools refer herehttp://www.methodsandtools.com/archive/archive.php?id=33.stack overflow
 ### live site 
 view [live]( https://lanarokip.github.io/Anitas_kitchen/)
