@@ -6,6 +6,19 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+.home{
+    background-color:rgb(222, 223, 224);
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    flex-grow: inherit;
+}
+.home li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
 .nav2{font-size: large;
     font-style: italic;
     line-height: 1.4em;
@@ -30,8 +43,7 @@
     font-size: large;
     text-align: center
     font-style: italic;
-    line-height: 1.4em;
-    
+    line-height: 1.4em;  
 }
 h1{font-size: xx-large;
     text-align: center;
@@ -42,7 +54,7 @@ h1{font-size: xx-large;
     background-color: darkgrey;
 }
 body{
-    background-color: rebeccapurple;
+    background-color:white;
     display: block;
     padding: 10px 10px 10px 10px;
     font-family:cursive;
