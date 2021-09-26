@@ -10,7 +10,7 @@ use the command below to install
 'sudo apt install git-all'
 ### setup
 so as to access the project on ur local files, you have to clone it using the steps below
-1. open the terminal. press CTRL+ALT+T
+1. open the terminal. press CTRL+ALT+T in ubuntu and ctrl+shift+t in macos
 2. use this comand to clone 's git clone https://github.com/Gilbertyegon/photography.git
 3. this will clone the repository  into your local browser
 4. and work on the project and push to github again
