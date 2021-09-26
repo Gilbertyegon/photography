@@ -14,6 +14,7 @@ so as to access the project on ur local files, you have to clone it using the st
 2. use this comand to clone 's git clone https://github.com/Gilbertyegon/photography.git
 3. this will clone the repository  into your local browser
 4. and work on the project and push to github again
+5. and you are done with setup
 ### Tech used
 1. HTMLs
 1. CSS
