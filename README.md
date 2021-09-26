@@ -24,5 +24,7 @@ so as to access the project on ur local files, you have to clone it using the st
 The project is under the  [MIT](license) license.
 ### contact us
 if you have any questions please don't hesitate to contact us on gilbert.yegon@student.moringaschool.com
+### contributing
+
 ### live site 
 view [live]( https://lanarokip.github.io/Anitas_kitchen/)
